@@ -32,3 +32,6 @@ Obtain the user's email address with the `getEmail()` method.
 
 #### c. 📥 Get Mailbox Capacity:
 Retrieve the mailbox capacity using the `getMailboxCapacity()` method.
+
+## Watch Demo:
+https://github.com/taha007860/Email-Administration/assets/96583299/d36a4563-d297-43ba-8a5b-93f91dbef478
